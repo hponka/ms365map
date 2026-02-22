@@ -2,6 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
+<title>Microsoft 365 Endpoint Map</title>
+<meta name="description" value="The countries of the Microsoft 365 endpoints are marked on the map based on the geolocation of their IP addresses. This is unofficial information (not confirmed by Microsoft) based on the geolocation services used: IP2Location LITE and DB-IP." />
 
 <link rel="stylesheet"
  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
@@ -21,9 +23,9 @@ body {
     color: #333;
 }
 
-h1, h2, h3, p {
+h1, h2, h3 {
     text-align: center;
-    margin: 20px 0 10px 0;
+    margin: 30px 0 10px 0;
 }
 
 /* =======================
@@ -71,6 +73,13 @@ h1, h2, h3, p {
     border: 1px solid #ccc;
     border-radius: 8px;
     font-size: 14px;
+}
+
+.contents {
+    max-width: 1200px;
+    margin: 0 auto 40px auto;    
+    overflow-x: auto;
+    text-align: center;
 }
 
 #countries, #domains {
@@ -151,7 +160,7 @@ a:hover {
 
 <h1>Microsoft 365 Endpoint Map</h1>
 
-<p>According to Microsoft, the following endpoints should be accessible to customers using Microsoft 365.</p>
+<div class="contents">According to Microsoft, the following endpoints should be accessible to customers using Microsoft 365.</div>
 
 <div id="filters">
     <h3>Datasets</h3>
@@ -186,23 +195,26 @@ a:hover {
 </tr>
 </tbody>
 </table>
-<small>Data source: <a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide" target="_blank" rel="nofollow">Microsoft</a>, 21.2.2026</small>
+<br /><small>Data source: <a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide" target="_blank" rel="nofollow">endpoints published by Microsoft</a>, updated 21.2.2026</small>
 </div>
 
 <h2>Endpoint geolocations as countries</h2>
+<div class="contents">The countries of the endpoints are marked on the map based on the geolocation of their IP addresses. This is unofficial information (not confirmed by Microsoft) based on the geolocation services used: <a href="https://lite.ip2location.com/" target="_blank">IP2Location LITE</a> and <a href="https://db-ip.com" target="_blank">DB-IP</a>.</div>
 
 <div id="map"></div>
 
-<h3>Countries</h3>
+<h3>International data transfers</h3>
+<div class="contents">According to GDPR personal data may be transferred to <a href="https://european-union.europa.eu/principles-countries-history/eu-countries_en" targe="_blank">EU member states</a>, countries for which the European Commission has made an <a href="https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en" target="_blank">adequacy decision</a>, and to the United States, as Microsoft is a participant in the <a href="https://dataprivacyframework.gov/list" target="_blank">Data Privacy Framework</a>. For other countries, a <a href="https://www.edps.europa.eu/data-protection/data-protection/reference-library/international-transfers_en" target="_blank">transfer impact assessment (TIA)</a> should be carried out.</div>
+
 <div id="countries"></div>
 
-<h3>Domains</h3>
+<h3>Endpoints (selected clouds)</h3>
 <input id="search" placeholder="Search domain...">
 
 <div id="domains"></div>
 
 <footer>
-IP Geolocations by <a href="https://lite.ip2location.com/">IP2Location LITE</a> and <a href="https://db-ip.com">DB-IP</a>
+    Made by hponka
 </footer>
 
 <script>
@@ -421,6 +433,12 @@ function updateCountriesTable(filteredDomains){
         count: countriesMap[c].count,
         gdpr: countriesMap[c].gdpr
     }));
+
+    // Oletussorttaus: country A–Z
+    if(!sortColumn){
+        sortColumn = "country";
+        sortAsc = true;
+    }
 
     // Sorttaus käyttäen globaaleja sortColumn ja sortAsc
     if(sortColumn){
