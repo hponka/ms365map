@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<link rel="stylesheet"
+ href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+<style>
+/* =======================
+   BODY & LAYOUT
+======================= */
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: #f4f6f8;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+
+/* =======================
+   FILTER PANEL
+======================= */
+#filters {
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto 20px auto;
+    padding: 15px 20px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+#filters h3 {
+    margin-top: 0;
+}
+
+#filters div {
+    margin: 5px 10;
+    display: inline-block;
+}
+
+/* =======================
+   MAP
+======================= */
+#map {
+    height: 50vh;
+    max-width: 1200px;
+    margin: 0 auto 20px auto;
+    border-radius: 12px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+/* =======================
+   DOMAIN SEARCH & TABLE
+======================= */
+#search {
+    display: block;
+    width: 300px;
+    max-width: 90%;
+    margin: 10px auto 15px auto;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+#countries, #domains {
+    max-width: 1200px;
+    margin: 0 auto 40px auto;
+    overflow-x: auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px 10px;
+    text-align: left;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+th {
+    background: #f0f2f5;
+    cursor: pointer;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+tr:hover {
+    background: #f9fafb;
+}
+
+/* =======================
+   CHECKBOX STYLING
+======================= */
+input[type="checkbox"] {
+    margin-right: 3px;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+label span {
+    font-weight: 500;
+}
+
+/* =======================
+   FOOTER
+======================= */
+footer {
+    text-align: center;
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+a {
+    color: #0078d4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.leaflet-tooltip.custom-tooltip {
+    width: 200px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Microsoft 365 Endpoint Map</h1>
+
+<p>According to Microsoft, the following endpoints should be accessible to customers using Microsoft 365.</p>
+
+<div id="filters">
+    <h3>Datasets</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">MS 365 Cloud</th>
+<th style="text-align: left;">Description</th>
+<th style="text-align: left; min-width: 5.5em;">Show</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide" target="_blank" rel="nofollow">Worldwide endpoints</a></td>
+<td style="text-align: left;">The endpoints for worldwide Microsoft 365 subscriptions, which include the United States Government Community Cloud (GCC).</td>
+<td date-filename="worldwide.json"></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-u-s-government-dod-endpoints?view=o365-worldwide" target="_blank" rel="nofollow">U.S. Government DoD endpoints</a></td>
+<td style="text-align: left;">The endpoints for United States Department of Defense (DoD) subscriptions.</td>
+<td date-filename="us_gov_dod.json"></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints?view=o365-worldwide" target="_blank" rel="nofollow">U.S. Government GCC High endpoints</a></td>
+<td style="text-align: left;">The endpoints for United States Government Community Cloud High (GCC High) subscriptions.</td>
+<td date-filename="us_gov_gcc.json"></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges-21vianet?view=o365-worldwide" target="_blank" rel="nofollow">Microsoft 365 operated by 21Vianet endpoints</a></td>
+<td style="text-align: left;">The endpoints for Microsoft 365 operated by 21Vianet, which is designed to meet the needs for Microsoft 365 in China.</td>
+<td date-filename="china.json"></td>
+</tr>
+</tbody>
+</table>
+<small>Data source: <a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide" target="_blank" rel="nofollow">Microsoft</a>, 21.2.2026</small>
+</div>
+
+<h2>Endpoint geolocations as countries</h2>
+
+<div id="map"></div>
+
+<h3>Countries</h3>
+<div id="countries"></div>
+
+<h3>Domains</h3>
+<input id="search" placeholder="Search domain...">
+
+<div id="domains"></div>
+
+<footer>
+IP Geolocations by <a href="https://lite.ip2location.com/">IP2Location LITE</a> and <a href="https://db-ip.com">DB-IP</a>
+</footer>
+
+<script>
+// ===============================
+// MAP
+// ===============================
+const map = L.map("map").setView([20,0],2);
+
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png")
+.addTo(map);
+
+let heat = L.heatLayer([], { radius:25 }).addTo(map);
+
+// ===============================
+// DATA
+// ===============================
+let allDomains = [];
+let activeFiles = new Set();
+const fileLayers = {};
+const fileColors = {};
+const colorPool = ["#e63946","#457b9d","#2a9d8f","#f4a261","#a8dadc","#6d6875","#f77f00","#ffb703"];
+
+// ===============================
+// SORT STATE
+// ===============================
+let sortColumn = null;
+let sortAsc = true;
+
+
+// ===============================
+// FETCH DATA
+// ===============================
+// ===============================
+// CREATE MAP OF FILE -> CLOUD NAME
+// ===============================
+const fileToCloudName = {};
+
+// fetch("api.php")
+fetch("data/cache/result_cache.json")
+.then(r=>r.json())
+.then(data=>{
+    let colorIndex = 0;
+    data.datasets.forEach(ds=>{
+        const file = ds.file;
+
+        // Tallenna cloud-nimi
+        const td = document.querySelector(`td[date-filename="${file}"]`);
+        const cloudName = td ? td.parentElement.querySelector("td:first-child").innerText : file;
+        fileToCloudName[file] = cloudName;
+
+        // Count IPs
+        let ipCount = 0;
+        ds.endpoints.forEach(ep=> ipCount += ep.ips.length);
+
+        // Assign color
+        if(!fileColors[file]){
+            fileColors[file] = colorPool[colorIndex % colorPool.length];
+            colorIndex++;
+        }
+
+        // Layer
+        if(!fileLayers[file]){
+            fileLayers[file] = L.layerGroup().addTo(map);
+            createCheckbox(file, ipCount);
+            activeFiles.add(file);
+        }
+
+        // IP MARKERS ja domainit 
+        ds.endpoints.forEach(ep=>{
+            ep.ips.forEach(ip=>{
+                if(ip.geo && ip.geo.lat && ip.geo.lon){
+                    const latlng = [ip.geo.lat, ip.geo.lon];
+                    const country = ip.geo.country || "Unknown";
+                    const gdpr = ip.geo.gdpr || "Unknown";
+                    const servicesForCountry = new Set();
+                    ds.endpoints.forEach(ep2=>{
+                        ep2.ips.forEach(ip2=>{
+                            if(ip2.geo && ip2.geo.country === country && ep2.display) servicesForCountry.add(ep2.display);
+                        });
+                    });
+                    const marker = L.circleMarker(latlng,{
+                        radius:6,
+                        color:fileColors[file],
+                        fillColor:fileColors[file],
+                        fillOpacity:0.8
+                    }).bindTooltip(`
+                        <b>Country:</b> ${country}<br>
+                        <b>GDPR transfer basis:</b> ${gdpr}<br>
+                        <b>Services:</b> ${[...servicesForCountry].join(", ")}
+                    `,{direction:"top",sticky:true, className: "custom-tooltip"});
+                    marker.addTo(fileLayers[file]);
+                }
+            });
+
+            ep.urls.forEach(u=>{
+                const countries = new Set();
+                ep.ips.forEach(ip=>{
+                    if(ip.geo && ip.geo.country) countries.add(ip.geo.country);
+                });
+                allDomains.push({
+                    domain: u,
+                    service: ep.display,
+                    notes: ep.notes,
+                    cat: ep.category,
+                    file: file,
+                    country: countries.size>0 ? [...countries].join(", ") : "Unknown"
+                });
+            });
+        });
+    });
+
+    updateHeat();
+    applyFilters();
+});
+
+
+// ===============================
+// CREATE CHECKBOX IN TABLE
+// ===============================
+function createCheckbox(file, ipCount){
+    // Etsi taulukon solu, jolla on data-filename
+    const td = document.querySelector(`td[date-filename="${file}"]`);
+    if(!td) return;
+
+    const id = "cb_" + file.replace(/\W/g,"_");
+    td.innerHTML = `
+        <label>
+            <input type="checkbox" id="${id}" checked> <span style="color:${fileColors[file]}">${ipCount} IP${ipCount !== 1 ? 's' : ''}</span>
+        </label>
+    `;
+
+    document.getElementById(id).onchange = function(){
+        if(this.checked){
+            fileLayers[file].addTo(map);
+            activeFiles.add(file);
+        }else{
+            map.removeLayer(fileLayers[file]);
+            activeFiles.delete(file);
+        }
+        updateHeat();
+        applyFilters();
+    };
+}
+
+// ===============================
+// HEATMAP
+// ===============================
+function updateHeat(){
+    let points = [];
+    Object.keys(fileLayers).forEach(file=>{
+        if(map.hasLayer(fileLayers[file])){
+            fileLayers[file].eachLayer(l=>{
+                const p = l.getLatLng();
+                points.push([p.lat, p.lng, 1]);
+            });
+        }
+    });
+    heat.setLatLngs(points);
+}
+
+// ===============================
+// FILTER + SORT
+// ===============================
+function applyFilters(){
+    const q = document.getElementById("search").value.toLowerCase();
+    let filtered = allDomains.filter(d=> d.domain.toLowerCase().includes(q) && activeFiles.has(d.file));
+    if(sortColumn){
+        filtered.sort((a,b)=>{
+            let v1 = a[sortColumn] || "", v2 = b[sortColumn] || "";
+            v1=v1.toString().toLowerCase(); v2=v2.toString().toLowerCase();
+            if(v1<v2) return sortAsc?-1:1;
+            if(v1>v2) return sortAsc?1:-1;
+            return 0;
+        });
+    }
+    renderTable(filtered);
+
+    // Päivitä countries-taulukko filtteröidyn datan mukaan
+    updateCountriesTable(filtered);
+}
+
+// ===============================
+// COUNTRIES TABLE (päivitetään filttereiden mukaan)
+// ===============================
+function updateCountriesTable(filteredDomains){
+    const countriesMap = {};
+
+    filteredDomains.forEach(d=>{
+        if(!activeFiles.has(d.file)) return;
+        const countries = d.country.split(",").map(c=>c.trim());
+        countries.forEach(country=>{
+            if(!countriesMap[country]){
+                countriesMap[country] = { count: 0, gdpr: "Unknown" };
+            }
+            countriesMap[country].count += 1;
+
+            const layer = fileLayers[d.file];
+            if(layer){
+                layer.eachLayer(marker=>{
+                    const tooltip = marker.getTooltip();
+                    if(!tooltip) return;
+                    const content = tooltip.getContent();
+                    const countryMatch = content.match(/<b>Country:<\/b>\s*([^<]+)/);
+                    const gdprMatch = content.match(/<b>GDPR transfer basis:<\/b>\s*([^<]+)/);
+                    if(countryMatch && countryMatch[1] === country){
+                        countriesMap[country].gdpr = gdprMatch ? gdprMatch[1] : "Unknown";
+                    }
+                });
+            }
+        });
+    });
+
+    // Muunna countriesMap arrayksi, jotta voidaan sortata
+    let countriesList = Object.keys(countriesMap).map(c => ({
+        country: c,
+        count: countriesMap[c].count,
+        gdpr: countriesMap[c].gdpr
+    }));
+
+    // Sorttaus käyttäen globaaleja sortColumn ja sortAsc
+    if(sortColumn){
+        countriesList.sort((a,b)=>{
+            let v1 = a[sortColumn], v2 = b[sortColumn];
+            if(typeof v1 === "string") v1=v1.toLowerCase();
+            if(typeof v2 === "string") v2=v2.toLowerCase();
+            if(v1 < v2) return sortAsc ? -1 : 1;
+            if(v1 > v2) return sortAsc ? 1 : -1;
+            return 0;
+        });
+    }
+
+    // Rakenna HTML-taulukko
+    let html = "<table><thead><tr>";
+    html += th("country","Country");
+    html += th("count","IP Count");
+    html += th("gdpr","GDPR Transfer Basis");
+    html += "</tr></thead><tbody>";
+
+    countriesList.forEach(c=>{
+        html += `<tr>
+            <td>${c.country}</td>
+            <td>${c.count}</td>
+            <td>${c.gdpr}</td>
+        </tr>`;
+    });
+    html += "</tbody></table>";
+
+    document.getElementById("countries").innerHTML = html;
+
+    // Bindataan sorttaus samaan tyyliin kuin domain-taulukko
+    bindSortHandlers();
+}
+
+
+// ===============================
+// TABLE
+// ===============================
+function renderTable(list){
+    let html = "<table><tr>";
+    html += th("domain","Domain");
+    html += th("country","Country");
+    html += th("cat","Category");
+    html += th("service","Service");
+    html += th("notes","Notes");
+    html += th("file","MS 365 Cloud");
+    html += "</tr>";
+
+    list.forEach(r=>{
+        const cloudName = fileToCloudName[r.file] || r.file;
+        const category = r.cat==="Default" ? "Default (dynamic IPs)" : r.cat;
+        html += `<tr>
+            <td>${r.domain}</td>
+            <td>${r.country}</td>
+            <td>${category}</td>
+            <td>${r.service}</td>
+            <td>${r.notes}</td>
+            <td>${cloudName}</td>
+        </tr>`;
+    });
+    html += "</table>";
+    document.getElementById("domains").innerHTML = html;
+    bindSortHandlers();
+}
+
+// ===============================
+// TABLE HEADERS
+// ===============================
+function th(col,label){
+    let arrow = sortColumn===col ? (sortAsc?" ▲":" ▼") : "";
+    return `<th data-col="${col}">${label}${arrow}</th>`;
+}
+function bindSortHandlers(){
+    document.querySelectorAll("th[data-col]").forEach(th=>{
+        th.onclick = function(){
+            const col=this.dataset.col;
+            if(sortColumn===col) sortAsc=!sortAsc;
+            else {sortColumn=col; sortAsc=true;}
+            applyFilters();
+        };
+    });
+}
+
+// ===============================
+// SEARCH
+// ===============================
+document.getElementById("search").oninput = function(){ applyFilters(); };
+</script>
+
+</body>
+</html>
