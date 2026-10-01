@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["api.office.net"]
+  },
+  {
+    "id": 2,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["augloop.svc.cloud.microsoft"]
+  },
+  {
+    "id": 3,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["dewc-000.ocws.officeapps.live.com"]
+  },
+  {
+    "id": 4,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["ecs.office.com"]
+  },
+  {
+    "id": 5,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["eudb.microsoftonline.com"]
+  },
+  {
+    "id": 6,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["eu-office.events.data.microsoft.com"]
+  },
+  {
+    "id": 7,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["events.data.microsoft.com"]
+  },
+  {
+    "id": 8,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["frc-000.ocws.officeapps.live.com"]
+  },
+  {
+    "id": 9,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["fs.microsoft.com"]
+  },
+  {
+    "id": 10,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["graph.microsoft.com"]
+  },
+  {
+    "id": 11,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["licensing.m365.svc.cloud.microsoft"]
+  },
+  {
+    "id": 12,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["login.microsoftonline.com"]
+  },
+  {
+    "id": 13,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["login.windows.net"]
+  },
+  {
+    "id": 14,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["neu-000.ocws.officeapps.live.com"]
+  },
+  {
+    "id": 15,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["officeapps.live.com"]
+  },
+  {
+    "id": 16,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["officeclient.microsoft.com"]
+  },
+  {
+    "id": 17,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["officepyservice.office.net"]
+  },
+  {
+    "id": 18,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["prodeu.enrichment.osi.office.net"]
+  },
+  {
+    "id": 19,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["substrate.office.com"]
+  },
+  {
+    "id": 20,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["swedencentral-pc00.augloop.svc.cloud.microsoft"]
+  },
+  {
+    "id": 21,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["weu-000.ocws.officeapps.live.com"]
+  },
+  {
+    "id": 22,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["augloop-prod-pa00.swedencentral.cloudapp.azure.com"]
+  },
+  {
+    "id": 23,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["augloop-prod-pc00.swedencentral.cloudapp.azure.com"]
+  },
+  {
+    "id": 24,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdcus01.centralus.cloudapp.azure.com"]
+  },
+  {
+    "id": 25,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdcus06.centralus.cloudapp.azure.com"]
+  },
+  {
+    "id": 26,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdcus07.centralus.cloudapp.azure.com"]
+  },
+  {
+    "id": 27,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdcus14.centralus.cloudapp.azure.com"]
+  },
+  {
+    "id": 28,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdeus02.eastus.cloudapp.azure.com"]
+  },
+  {
+    "id": 29,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdeus03.eastus.cloudapp.azure.com"]
+  },
+  {
+    "id": 30,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdeus14.eastus.cloudapp.azure.com"]
+  },
+  {
+    "id": 31,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdjpe00.japaneast.cloudapp.azure.com"]
+  },
+  {
+    "id": 32,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdweu18.westeurope.cloudapp.azure.com"]
+  },
+  {
+    "id": 33,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["osiprod-uks-buff-azsc-000.uksouth.cloudapp.azure.com"]
+  },
+  {
+    "id": 34,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["osiprod-weu-buff-azsc-000.westeurope.cloudapp.azure.com"]
+  },
+  {
+    "id": 35,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["teams-mrc-ww-perf.tm-4.office.com"]
+  },
+  {
+    "id": 36,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["prod-campaignaggregator.omexexternallfb.office.net.akadns.net"]
+  },
+  {
+    "id": 37,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["GVX-efz.ms-acdc.office.com"]
+  },
+  {
+    "id": 38,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["mira-ofc.tm-4.office.com"]
+  },
+  {
+    "id": 39,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["frc.pptsgs.live.com.akadns.net"]
+  },
+  {
+    "id": 40,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["neu.pptsgs.live.com.akadns.net"]
+  },
+  {
+    "id": 41,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["prod.ols.live.com.akadns.net"]
+  },
+  {
+    "id": 42,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["www.tm.prd.ags.akadns.net"]
+  },
+  {
+    "id": 43,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["a434.dscd.akamai.net"]
+  },
+  {
+    "id": 44,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["a1847.dscg2.akamai.net"]
+  },
+  {
+    "id": 45,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["e12627.g.akamaiedge.net"]
+  },
+  {
+    "id": 46,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["e26769.dscb.akamaiedge.net"]
+  },
+  {
+    "id": 47,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["part-0025.t-0009.t-msedge.net"]
+  },
+  {
+    "id": 48,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["s-0005.dual-s-msedge.net"]
+  },
+  {
+    "id": 49,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["onedscolprdwus12.westus.cloudapp.azure.com"]
+  },
+  {
+    "id": 50,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["iris-de-prod-azsc-v2-weu.westeurope.cloudapp.azure.com"]
+  },
+  {
+    "id": 51,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["euripv4.consent.config.office.akadns.net"]
+  },
+  {
+    "id": 52,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Http request by Microsoft 365 application",
+    "urls": ["prod-addinsstoreapi.omexexternallfb.office.net.akadns.net"]
+  },
+  {
+    "id": 53,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["microsoftonline.us"]
+  },
+  {
+    "id": 54,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["microsoftonline.mil"]
+  },
+  {
+    "id": 55,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["microsoftonline.fr"]
+  },
+  {
+    "id": 56,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["microsoftonline.de"]
+  },
+  {
+    "id": 57,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["live.net"]
+  },
+  {
+    "id": 58,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["pptsgs.officeapps.live.com"]
+  },
+  {
+    "id": 59,
+    "serviceArea": "Microsoft 365",
+    "serviceAreaDisplayName": "Microsoft 365 Diagnostic data",
+    "urls": ["cdn.hubblecontent.osi.office.net"]
+  }
+]

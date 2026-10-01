@@ -12,7 +12,8 @@
       "40.66.16.0/21",
       "2001:489a:2200:100::/56",
       "2001:489a:2200:400::/56",
-      "2001:489a:2200:600::/56"
+      "2001:489a:2200:600::/56",
+      "2001:489a:2200:8000::/50"
     ],
     "tcpPorts": "80,443",
     "expressRoute": true,
@@ -85,6 +86,7 @@
     "ips": [
       "13.72.144.0/20",
       "52.127.88.0/21",
+      "57.16.0.0/17",
       "104.212.44.0/22",
       "2001:489a:2240::/44"
     ],
@@ -134,6 +136,7 @@
       "*.gov.online.office365.us"
     ],
     "ips": [
+      "20.35.0.0/22",
       "52.127.37.0/24",
       "52.127.82.0/23",
       "2001:489a:2208::/49"
@@ -245,12 +248,10 @@
       "go.microsoft.com",
       "insertmedia.bing.office.net",
       "mrodevicemgr.officeapps.live.com",
-      "ocsa.officeapps.live.com",
       "ocsredir.officeapps.live.com",
       "ocws.officeapps.live.com",
       "office15client.microsoft.com",
       "officecdn.microsoft.com",
-      "officecdn.microsoft.com.edgesuite.net",
       "officepreviewredir.microsoft.com",
       "officeredir.microsoft.com",
       "ols.officeapps.live.com",
@@ -409,6 +410,7 @@
     "ips": [
       "13.72.144.0/20",
       "52.127.88.0/21",
+      "57.16.0.0/17",
       "104.212.44.0/22",
       "2001:489a:2240::/44"
     ],

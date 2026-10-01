@@ -193,9 +193,24 @@ a:hover {
 <td style="text-align: left;">The endpoints for Microsoft 365 operated by 21Vianet, which is designed to meet the needs for Microsoft 365 in China.</td>
 <td date-filename="china.json"></td>
 </tr>
+<tr>
+<td style="text-align: left;"><a href="https://learn.microsoft.com/en-us/compliance/regulatory/offering-c5-germany" target="_blank" rel="nofollow">Microsoft 365 Germany endpoints</a></td>
+<td style="text-align: left;">The endpoints for Microsoft 365 Germany (previously: Office 365 Germany), which is designed to meet the needs for Microsoft 365 in Germany. The service instance has been available since <a href="https://news.microsoft.com/europe/2017/01/24/office-365-germany-provides-unparalleled-data-security-regulated-organisations-europe/" target="_blank" rel="nofollow">24.1.2017</a>.</td>
+<td date-filename="germany.json"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Microsoft 365 France endpoints</td>
+<td style="text-align: left;">The endpoints for Microsoft 365 France. The France instance of the Microsoft 365 IP Web Service uses separate 'appcloud.fr' namespaces for Microsoft 365 services, SharePoint/OneDrive, identity, user content, and static content. There is no Microsoft announcement regarding the launch of the French service, but the information is available in Microsoft's <a href="https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/.github/workflows/M365Endpoints.yml" target="_blank" rel="nofollow">GitHub documentation</a>. The service instance has been available since 21.8.2025.</td>
+<td date-filename="france.json"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Microsoft 365 Diagnostic data</td>
+<td style="text-align: left;">This is experimental data. The endpoints are collected from diagnostic data sent by Word, Powerpoint and Excel in the Microsoft 365 worldwide cloud from a single Finnish user.</td>
+<td date-filename="ms365diagnostic.json"></td>
+</tr>
 </tbody>
 </table>
-<br /><small>Data source: <a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide" target="_blank" rel="nofollow">endpoints published by Microsoft</a>, updated 21.2.2026</small>
+<br /><small>Data source: <a href="https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide" target="_blank" rel="nofollow">endpoints published by Microsoft</a>, updated 1.10.2026. Check <a href="https://endpoints.office.com/version?ClientRequestId=b10c5ed1-bad1-445f-b386-b919946339a7" target="_blank" rel="nofollow">latest version dates</a>.</small>
 </div>
 
 <h2>Endpoint geolocations as countries</h2>
@@ -252,8 +267,8 @@ let sortAsc = true;
 // ===============================
 const fileToCloudName = {};
 
-// fetch("api.php")
-fetch("data/cache/result_cache.json")
+fetch("api.php")
+// fetch("data/cache/result_cache.json")
 .then(r=>r.json())
 .then(data=>{
     let colorIndex = 0;

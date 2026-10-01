@@ -6,21 +6,7 @@
         "country": "China",
         "gdpr": "Need for TIA"
     },
-    "40.73.164.128": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "40.73.165.0": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "42.159.40.0": {
+    "40.73.164.0": {
         "lat": 35.8617,
         "lon": 104.1954,
         "cc": "CN",
@@ -28,20 +14,6 @@
         "gdpr": "Need for TIA"
     },
     "42.159.44.0": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "42.159.163.128": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "42.159.165.0": {
         "lat": 35.8617,
         "lon": 104.1954,
         "cc": "CN",
@@ -69,35 +41,7 @@
         "country": "China",
         "gdpr": "Need for TIA"
     },
-    "2406:e500:4030:800::": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
     "2406:e500:4040::": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "2406:e500:4040:800::": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "2406:e500:4040:1000::": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "2406:e500:4040:1400::": {
         "lat": 35.8617,
         "lon": 104.1954,
         "cc": "CN",
@@ -489,91 +433,28 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "193.229.109.58": {
+    "80.75.105.153": {
         "lat": 61.9241,
         "lon": 25.7482,
         "cc": "FI",
         "country": "Finland",
         "gdpr": "EU"
     },
-    "193.229.109.49": {
+    "80.75.105.152": {
         "lat": 61.9241,
         "lon": 25.7482,
         "cc": "FI",
         "country": "Finland",
         "gdpr": "EU"
     },
-    "2001:998:12:74::c1e5:714a": {
+    "2a00:1a58::2:0:0:504b:6999": {
         "lat": 61.9241,
         "lon": 25.7482,
         "cc": "FI",
         "country": "Finland",
         "gdpr": "EU"
     },
-    "2001:998:12:74::c1e5:7159": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "52.109.28.48": {
-        "lat": 55.378051,
-        "lon": -3.435973,
-        "cc": "GB",
-        "country": "United Kingdom",
-        "gdpr": "Adequacy decision"
-    },
-    "2603:1026:2406::5": {
-        "lat": 55.378051,
-        "lon": -3.435973,
-        "cc": "GB",
-        "country": "United Kingdom",
-        "gdpr": "Adequacy decision"
-    },
-    "2603:1026:2404::6": {
-        "lat": 53.4129,
-        "lon": -8.2439,
-        "cc": "IE",
-        "country": "Ireland",
-        "gdpr": "EU"
-    },
-    "151.101.246.172": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
-    },
-    "193.229.113.83": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "193.229.113.74": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2a04:4e42:3a::684": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
-    },
-    "2001:998:12:e::c1e5:6d2b": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2001:998:12:e::c1e5:6d38": {
+    "2a00:1a58::2:0:0:504b:6998": {
         "lat": 61.9241,
         "lon": 25.7482,
         "cc": "FI",
@@ -581,13 +462,6 @@
         "gdpr": "EU"
     },
     "52.110.18.141": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "52.110.18.134": {
         "lat": 23.424076,
         "lon": 53.847818,
         "cc": "AE",
@@ -608,63 +482,14 @@
         "country": "United Arab Emirates",
         "gdpr": "Need for TIA"
     },
-    "52.110.18.129": {
+    "52.110.18.134": {
         "lat": 23.424076,
         "lon": 53.847818,
         "cc": "AE",
         "country": "United Arab Emirates",
         "gdpr": "Need for TIA"
     },
-    "52.110.18.136": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "52.110.18.140": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "52.110.18.130": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "52.110.18.138": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "52.110.18.132": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "52.110.18.135": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "52.110.18.133": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "2603:1063:2001:2d04::365:ff1": {
+    "2603:1063:2001:2d03::365:ff1": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
@@ -678,6 +503,13 @@
         "country": "Sweden",
         "gdpr": "EU"
     },
+    "2603:1063:2001:2d08::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
     "2603:1063:2001:2d06::365:ff1": {
         "lat": 60.1282,
         "lon": 18.6435,
@@ -685,67 +517,39 @@
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1063:2001:2d0a::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
+    "80.75.105.154": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
         "gdpr": "EU"
     },
-    "2603:1063:2001:2d01::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
+    "151.101.246.172": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
         "gdpr": "EU"
     },
-    "2603:1063:2001:2d0b::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
+    "2a04:4e42:3a::684": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
         "gdpr": "EU"
     },
-    "2603:1063:2001:2d03::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "52.110.18.136": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
     },
-    "2603:1063:2001:2d00::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1063:2001:2d05::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1063:2001:2d02::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1063:2001:2d0c::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.73.132.66": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
+    "52.110.18.139": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
         "gdpr": "Need for TIA"
     },
     "42.159.172.130": {
@@ -755,7 +559,7 @@
         "country": "China",
         "gdpr": "Need for TIA"
     },
-    "40.73.164.130": {
+    "40.73.164.194": {
         "lat": 35.8617,
         "lon": 104.1954,
         "cc": "CN",
@@ -763,13 +567,6 @@
         "gdpr": "Need for TIA"
     },
     "42.159.45.130": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "42.159.172.82": {
         "lat": 35.8617,
         "lon": 104.1954,
         "cc": "CN",
@@ -790,7 +587,49 @@
         "country": "China",
         "gdpr": "Need for TIA"
     },
-    "40.73.164.194": {
+    "40.73.132.66": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "42.159.172.82": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "40.73.164.130": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "2406:e500:4210:12::2": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "2406:e500:4310:c::2": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "2406:e500:4040:805::2": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "2406:e500:4040:802::2": {
         "lat": 35.8617,
         "lon": 104.1954,
         "cc": "CN",
@@ -798,6 +637,13 @@
         "gdpr": "Need for TIA"
     },
     "2406:e500:4030:80c::2": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "2406:e500:4310:12::2": {
         "lat": 35.8617,
         "lon": 104.1954,
         "cc": "CN",
@@ -818,175 +664,14 @@
         "country": "China",
         "gdpr": "Need for TIA"
     },
-    "2406:e500:4310:12::2": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "2406:e500:4210:12::2": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "2406:e500:4040:805::2": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "2406:e500:4310:c::2": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "2406:e500:4040:802::2": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "40.126.53.14": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.190.181.23": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.8": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.11": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.190.181.1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.17": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.6": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.190.181.4": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.19": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.190.181.6": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.15": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.18": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.13": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.190.181.3": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.190.177.23": {
+    "20.190.177.82": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "20.190.147.9": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.147.3": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.147.11": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.147.1": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.147.6": {
+    "20.190.147.8": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
@@ -1000,105 +685,98 @@
         "country": "France",
         "gdpr": "EU"
     },
-    "20.190.177.147": {
+    "20.190.177.21": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::d": {
+    "20.190.147.0": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::b": {
+    "20.190.147.9": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1026:3000:108::3": {
+    "20.190.177.84": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1026:3000:108::5": {
+    "20.190.177.23": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::8": {
+    "20.190.177.148": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1026:3000:118::3": {
+    "20.190.147.11": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1026:3000:118::5": {
+    "20.190.147.6": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1026:3000:108::4": {
+    "20.190.177.22": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1026:3000:110::2": {
+    "20.190.147.5": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1026:3000:118::2": {
+    "20.190.147.3": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::7": {
+    "2603:1027:1:108::5": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::e": {
+    "2603:1027:1:108::10": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::c": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "2603:1027:1:108::6": {
+    "2603:1026:3000:110::4": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
@@ -1112,7 +790,21 @@
         "country": "France",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::4": {
+    "2603:1027:1:108::b": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1026:3000:118::3": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1026:3000:110::2": {
         "lat": 46.2276,
         "lon": 2.2137,
         "cc": "FR",
@@ -1126,12 +818,47 @@
         "country": "France",
         "gdpr": "EU"
     },
-    "40.162.217.102": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
+    "2603:1026:3000:108::3": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1026:3000:108::4": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:108::a": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1026:3000:110::5": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:108::e": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1026:3000:110::3": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
     },
     "40.162.199.15": {
         "lat": 35.8617,
@@ -1147,28 +874,21 @@
         "country": "China",
         "gdpr": "Need for TIA"
     },
-    "2406:e500:2600:4::72": {
-        "lat": 35.8617,
-        "lon": 104.1954,
-        "cc": "CN",
-        "country": "China",
-        "gdpr": "Need for TIA"
-    },
-    "2.23.90.117": {
+    "95.100.178.174": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:48d::38f3": {
+    "2a02:26f0:e80:189::38f3": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:499::38f3": {
+    "2a02:26f0:e80:19e::38f3": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
@@ -1224,6 +944,832 @@
         "country": "China",
         "gdpr": "Need for TIA"
     },
+    "52.131.157.184": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "23.103.242.128": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "23.103.242.137": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "23.103.242.130": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "23.103.242.132": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "2603:1061:1600:2d01::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1061:1600:2d0c::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1061:1600:2d05::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1061:1600:2d02::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.123.245.104": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.245.100": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.245.99": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.245.96": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.245.97": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.245.101": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.245.98": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.245.105": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "2603:1063:7:101::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:108::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:105::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:10d::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:100::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:103::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:109::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:104::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "40.79.150.127": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "52.182.143.212": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "184.85.151.29": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
+        "gdpr": "EU"
+    },
+    "2a02:26f0:e2:4af::40dc": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2a02:26f0:e2:48b::40dc": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "40.126.53.25": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "40.126.53.24": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "20.20.32.96": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "2603:1026:3000:28::83": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1026:3000:28::81": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1026:3000:28::82": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.110.18.140": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "52.110.18.132": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "2603:1063:2001:2d05::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:2001:2d01::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.108.10.12": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "52.108.11.12": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1063:2000:3::12": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1063:2000:2::12": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "74.248.107.52": {
+        "lat": 51.9194,
+        "lon": 19.1451,
+        "cc": "PL",
+        "country": "Poland",
+        "gdpr": "EU"
+    },
+    "2603:1020:1300:d::1c": {
+        "lat": 51.9194,
+        "lon": 19.1451,
+        "cc": "PL",
+        "country": "Poland",
+        "gdpr": "EU"
+    },
+    "52.98.151.82": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.97.190.34": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "40.99.215.50": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "40.99.148.98": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1026:c11:915::2": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0f:13::2": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1026:c0f:100b::2": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1026:c0f:1011::2": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "52.111.209.16": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1026:2402:1::4": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.111.209.20": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1026:2402:1::7": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.182.141.63": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "13.89.179.8": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "52.182.143.209": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "104.208.16.90": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.42.65.84": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.42.73.24": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.42.65.90": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "13.78.111.198": {
+        "lat": 36.204824,
+        "lon": 138.252924,
+        "cc": "JP",
+        "country": "Japan",
+        "gdpr": "Adequacy decision"
+    },
+    "13.69.116.105": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "52.109.28.47": {
+        "lat": 55.378051,
+        "lon": -3.435973,
+        "cc": "GB",
+        "country": "United Kingdom",
+        "gdpr": "Adequacy decision"
+    },
+    "2603:1026:2406::4": {
+        "lat": 55.378051,
+        "lon": -3.435973,
+        "cc": "GB",
+        "country": "United Kingdom",
+        "gdpr": "Adequacy decision"
+    },
+    "52.109.89.19": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "2603:1026:2405::6": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:10c::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:7:102::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.109.16.3": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1026:2405:1::5e": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "40.99.215.2": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "40.99.215.66": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "52.98.149.162": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "40.99.215.98": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1026:c0e:876::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0e:877::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0e:864::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0e:2a::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "52.110.18.32": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "52.110.18.33": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "52.110.18.34": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "52.110.18.35": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "2603:1063:2001:2c03::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:2001:2c02::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:2001:2c01::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:2001:2c00::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.111.231.49": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1026:2400:1::29": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "52.111.236.63": {
+        "lat": 53.4129,
+        "lon": -8.2439,
+        "cc": "IE",
+        "country": "Ireland",
+        "gdpr": "EU"
+    },
+    "2603:1026:2404:1::38": {
+        "lat": 53.4129,
+        "lon": -8.2439,
+        "cc": "IE",
+        "country": "Ireland",
+        "gdpr": "EU"
+    },
+    "52.109.0.35": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2a01:111:f100:3000::a83e:176b": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2a00:1a58::2:0:0:504b:699a": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
+        "gdpr": "EU"
+    },
+    "184.51.236.235": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
+        "gdpr": "EU"
+    },
+    "95.101.133.121": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "95.101.133.74": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2a02:26f0:e80:7f::17d8:8698": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2a02:26f0:e80:7f::17d8:86a1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "13.107.246.53": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "13.107.213.53": {
+        "lat": 56.130366,
+        "lon": -106.346771,
+        "cc": "CA",
+        "country": "Canada",
+        "gdpr": "Adequacy decision"
+    },
+    "2620:1ec:46::53": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2620:1ec:bdf::53": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "52.123.129.14": {
+        "lat": 56.130366,
+        "lon": -106.346771,
+        "cc": "CA",
+        "country": "Canada",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.128.14": {
+        "lat": 56.130366,
+        "lon": -106.346771,
+        "cc": "CA",
+        "country": "Canada",
+        "gdpr": "Adequacy decision"
+    },
+    "2603:1063:27:1::14": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1063:27:2::14": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.189.173.13": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.103.156.88": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "172.187.47.56": {
+        "lat": 55.378051,
+        "lon": -3.435973,
+        "cc": "GB",
+        "country": "United Kingdom",
+        "gdpr": "Adequacy decision"
+    },
+    "52.111.235.8": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1026:2404:1::56": {
+        "lat": 53.4129,
+        "lon": -8.2439,
+        "cc": "IE",
+        "country": "Ireland",
+        "gdpr": "EU"
+    },
+    "20.74.25.134": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1020:802:6::47": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
     "20.35.192.0": {
         "lat": 39.828175,
         "lon": -98.5795,
@@ -1252,7 +1798,14 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "40.66.31.2": {
+    "2001:489a:2200:c000::": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.26.2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1266,35 +1819,35 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.35.193.66": {
+    "40.66.29.130": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.35.193.130": {
+    "20.35.197.2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.35.195.130": {
+    "20.35.192.130": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.35.194.130": {
+    "40.66.31.98": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "40.66.30.130": {
+    "20.35.193.162": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1308,42 +1861,7 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2001:489a:2200:568::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:5ea::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:5d8::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:5e9::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:597::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:5d7::2": {
+    "2001:489a:2200:591::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1357,7 +1875,112 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
+    "2001:489a:2200:5b6::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:5bf::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
     "2001:489a:2200:5d6::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:568::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:550::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:57b::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.193.130": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.27.130": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.28.2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.194.130": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.29.66": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.31.130": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.193.66": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.30.66": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.31.2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.30.130": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1371,21 +1994,7 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2001:489a:2200:578::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:70b::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:5bf::2": {
+    "2001:489a:2200:548::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1406,56 +2015,21 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2001:489a:2200:70c::2": {
+    "2001:489a:2200:5d7::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2001:489a:2200:57b::2": {
+    "2001:489a:2200:5a6::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "40.66.31.98": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "40.66.29.66": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "40.66.30.66": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.35.193.162": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "40.66.31.162": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:5b6::2": {
+    "2001:489a:2200:578::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1532,6 +2106,13 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
+    "57.16.128.0": {
+        "lat": 55.378051,
+        "lon": -3.435973,
+        "cc": "GB",
+        "country": "United Kingdom",
+        "gdpr": "Adequacy decision"
+    },
     "104.212.32.0": {
         "lat": 39.828175,
         "lon": -98.5795,
@@ -1574,54 +2155,26 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "13.107.213.53": {
-        "lat": 56.130366,
-        "lon": -106.346771,
-        "cc": "CA",
-        "country": "Canada",
-        "gdpr": "Adequacy decision"
+    "150.171.109.199": {
+        "lat": -0.0236,
+        "lon": 37.9062,
+        "cc": "KE",
+        "country": "Kenya",
+        "gdpr": "Need for TIA"
     },
-    "13.107.246.53": {
+    "2603:1061:14:c5::1": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2620:1ec:bdf::53": {
+    "20.35.4.0": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
-    },
-    "2620:1ec:46::53": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "193.229.113.73": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2001:998:12:e::c1e5:6d3b": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2001:998:12:e::c1e5:6d2a": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
     },
     "52.127.80.0": {
         "lat": 39.828175,
@@ -1658,49 +2211,63 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2603:1027:1:108::a": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "20.190.181.3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::5": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "20.190.181.23": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1027:1:108::9": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "40.126.53.11": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:3000:108::7": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "40.126.53.14": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:3000:110::4": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "40.126.53.15": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:3000:110::5": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "40.126.53.6": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "40.126.32.131": {
+    "40.126.53.21": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "40.126.53.19": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "40.126.32.66": {
         "lat": 52.1326,
         "lon": 5.2913,
         "cc": "NL",
@@ -1714,28 +2281,14 @@
         "country": "Netherlands",
         "gdpr": "EU"
     },
+    "40.126.32.131": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
     "40.126.32.6": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
-    },
-    "40.126.32.66": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
-    },
-    "2603:1027:1:148::b": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
-    },
-    "2603:1026:3000:150::3": {
         "lat": 52.1326,
         "lon": 5.2913,
         "cc": "NL",
@@ -1756,14 +2309,21 @@
         "country": "Netherlands",
         "gdpr": "EU"
     },
-    "20.190.190.129": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
+    "2603:1027:1:148::b": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
     },
-    "40.126.62.132": {
+    "2603:1026:3000:150::3": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "20.190.190.193": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1777,14 +2337,7 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.190.190.130": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.190.190.194": {
+    "20.190.190.131": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1798,21 +2351,14 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "40.126.62.129": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "40.126.62.131": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
     "40.126.62.130": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.190.190.194": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1826,14 +2372,14 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2603:1036:3000:e8::3": {
+    "40.126.62.129": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2603:1036:3000:e8::1": {
+    "2603:1036:3000:f0::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1847,13 +2393,6 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2603:1036:3000:f8::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
     "2603:1036:3000:f0::4": {
         "lat": 39.828175,
         "lon": -98.5795,
@@ -1861,14 +2400,7 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2603:1036:3000:f8::1": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2603:1036:3000:f8::3": {
+    "2603:1036:3000:e8::3": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1889,14 +2421,42 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2603:1036:3000:f8::4": {
+    "2603:1036:3000:f8::1": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2603:1036:3000:f0::2": {
+    "2603:1036:3000:e8::1": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "13.107.253.53": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "13.107.226.53": {
+        "lat": 56.130366,
+        "lon": -106.346771,
+        "cc": "CA",
+        "country": "Canada",
+        "gdpr": "Adequacy decision"
+    },
+    "2620:1ec:29:1::53": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2620:1ec:48:1::53": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -1966,49 +2526,49 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2.23.89.249": {
+    "95.100.178.131": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:4a3::2c1a": {
+    "2a02:26f0:e80:192::2c1a": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:4bb::2c1a": {
+    "2a02:26f0:e80:197::2c1a": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "13.107.21.237": {
+    "150.171.28.10": {
         "lat": 56.130366,
         "lon": -106.346771,
         "cc": "CA",
         "country": "Canada",
         "gdpr": "Adequacy decision"
     },
-    "204.79.197.237": {
+    "150.171.27.10": {
         "lat": 56.130366,
         "lon": -106.346771,
         "cc": "CA",
         "country": "Canada",
         "gdpr": "Adequacy decision"
     },
-    "2620:1ec:c11::237": {
+    "2620:1ec:33::10": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "52.109.20.46": {
+    "2620:1ec:33:1::10": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2022,82 +2582,12 @@
         "country": "Netherlands",
         "gdpr": "EU"
     },
-    "2603:1036:2407::6": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
     "2603:1026:2405::7": {
         "lat": 52.1326,
         "lon": 5.2913,
         "cc": "NL",
         "country": "Netherlands",
         "gdpr": "EU"
-    },
-    "52.110.18.128": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "2603:1063:2001:2d08::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1063:2001:2d0d::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "193.229.113.91": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "193.229.113.81": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2001:998:12:74::c1e5:715b": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2001:998:12:74::c1e5:7151": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "52.109.0.144": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2603:1036:2407::9": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
     },
     "52.126.224.97": {
         "lat": 39.828175,
@@ -2106,55 +2596,6 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "52.123.129.14": {
-        "lat": 56.130366,
-        "lon": -106.346771,
-        "cc": "CA",
-        "country": "Canada",
-        "gdpr": "Adequacy decision"
-    },
-    "52.123.128.14": {
-        "lat": 56.130366,
-        "lon": -106.346771,
-        "cc": "CA",
-        "country": "Canada",
-        "gdpr": "Adequacy decision"
-    },
-    "2603:1063:27:1::14": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2603:1063:27:2::14": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "23.50.133.112": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:48c::d42": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:48a::d42": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
     "4.176.49.0": {
         "lat": 46.2276,
         "lon": 2.2137,
@@ -2162,14 +2603,7 @@
         "country": "France",
         "gdpr": "EU"
     },
-    "52.182.48.219": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.140.56.70": {
+    "20.140.111.176": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2177,27 +2611,6 @@
         "gdpr": "Data protection framework"
     },
     "20.140.48.71": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.140.147.201": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:3403::5e2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:3403::5e9": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2212,20 +2625,6 @@
         "gdpr": "Data protection framework"
     },
     "52.245.136.47": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "52.245.136.44": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "52.245.136.45": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2274,56 +2673,14 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.35.245.66": {
+    "2001:489a:2200:8000::": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.35.247.130": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "40.66.22.66": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.35.247.98": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.35.247.66": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "40.66.22.34": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.35.241.194": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.35.246.226": {
+    "20.35.245.2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2344,14 +2701,35 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.35.244.194": {
+    "20.35.246.162": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.35.246.162": {
+    "20.35.244.98": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.22.66": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.247.34": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.244.194": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2365,21 +2743,7 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2001:489a:2200:14f::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:41e::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:163::2": {
+    "2001:489a:2200:1c7::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2393,42 +2757,7 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2001:489a:2200:148::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:1bd::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:161::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:14e::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:1b8::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:1c7::2": {
+    "2001:489a:2200:1b6::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2436,6 +2765,20 @@
         "gdpr": "Data protection framework"
     },
     "2001:489a:2200:1bb::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:14f::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:127::2": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2526,6 +2869,13 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
+    "57.16.0.0": {
+        "lat": 55.378051,
+        "lon": -3.435973,
+        "cc": "GB",
+        "country": "United Kingdom",
+        "gdpr": "Adequacy decision"
+    },
     "104.212.44.0": {
         "lat": 39.828175,
         "lon": -98.5795,
@@ -2568,6 +2918,13 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
+    "20.35.0.0": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
     "52.127.37.0": {
         "lat": 39.828175,
         "lon": -98.5795,
@@ -2589,11 +2946,11 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "23.210.253.188": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
+    "23.43.26.116": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
         "gdpr": "EU"
     },
     "52.227.170.242": {
@@ -2624,35 +2981,28 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "52.227.138.17": {
+    "62.11.83.64": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.141.10.214": {
+    "20.140.147.203": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2001:489a:3604::7c2": {
+    "2001:489a:3403::5e3": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.140.200.208": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.140.137.182": {
+    "20.140.134.64": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -2960,18 +3310,11 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "193.229.109.43": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "193.229.109.80": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
+    "2.23.89.249": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
     "13.107.136.0": {
@@ -3044,19 +3387,12 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.135.6.7": {
+    "20.245.250.193": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
-    },
-    "13.107.136.10": {
-        "lat": 56.130366,
-        "lon": -106.346771,
-        "cc": "CA",
-        "country": "Canada",
-        "gdpr": "Adequacy decision"
     },
     "13.107.138.10": {
         "lat": 56.130366,
@@ -3065,14 +3401,21 @@
         "country": "Canada",
         "gdpr": "Adequacy decision"
     },
-    "2620:1ec:8f8::10": {
+    "13.107.136.10": {
+        "lat": 56.130366,
+        "lon": -106.346771,
+        "cc": "CA",
+        "country": "Canada",
+        "gdpr": "Adequacy decision"
+    },
+    "2620:1ec:8fa::10": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2620:1ec:8fa::10": {
+    "2620:1ec:8f8::10": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -3219,26 +3562,33 @@
         "country": "Ireland",
         "gdpr": "EU"
     },
-    "193.229.113.90": {
+    "2.16.171.65": {
         "lat": 61.9241,
         "lon": 25.7482,
         "cc": "FI",
         "country": "Finland",
         "gdpr": "EU"
     },
-    "2001:998:12:74::c1e5:7149": {
+    "2.16.171.91": {
         "lat": 61.9241,
         "lon": 25.7482,
         "cc": "FI",
         "country": "Finland",
         "gdpr": "EU"
     },
-    "2001:998:12:74::c1e5:715a": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
+    "2001:2030:22::210:ab5b": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
+    },
+    "2001:2030:22::210:ab41": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
     "150.171.22.11": {
         "lat": 39.828175,
@@ -3248,34 +3598,6 @@
         "gdpr": "Data protection framework"
     },
     "2620:1ec:50::11": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "52.108.9.12": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "52.108.8.12": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2603:1063:2000::12": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2603:1063:2000:1::12": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -3429,91 +3751,98 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "92.122.65.22": {
+    "150.171.109.198": {
+        "lat": -0.0236,
+        "lon": 37.9062,
+        "cc": "KE",
+        "country": "Kenya",
+        "gdpr": "Need for TIA"
+    },
+    "2603:1061:14:c6::1": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "184.85.144.122": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
+        "gdpr": "EU"
+    },
+    "2a02:26f0:e80:196::34ef": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:4ac::2957": {
+    "2a02:26f0:e80:18c::34ef": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:48e::2957": {
+    "2603:1061:14:c4::1": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "96.17.5.8": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
+        "gdpr": "EU"
+    },
+    "2a02:26f0:e80:596::882": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "95.101.99.157": {
+    "2a02:26f0:e80:589::882": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:4b4::34ef": {
+    "184.85.144.181": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
+        "gdpr": "EU"
+    },
+    "2a02:26f0:e80:59a::353e": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:486::34ef": {
+    "2a02:26f0:e80:58b::353e": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "23.49.108.196": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "150.171.109.197": {
+        "lat": -0.0236,
+        "lon": 37.9062,
+        "cc": "KE",
+        "country": "Kenya",
+        "gdpr": "Need for TIA"
     },
-    "2a02:26f0:e2:5a8::882": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:5aa::882": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "95.101.99.214": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:5a8::353e": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:588::353e": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "104.18.33.206": {
+    "2603:1061:14:c2::1": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -3527,33 +3856,47 @@
         "country": "Canada",
         "gdpr": "Adequacy decision"
     },
-    "2a06:98c1:3105::6812:21ce": {
-        "lat": 55.378051,
-        "lon": -3.435973,
-        "cc": "GB",
-        "country": "United Kingdom",
-        "gdpr": "Adequacy decision"
-    },
-    "2606:4700:4404::ac40:9a32": {
+    "104.18.33.206": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "20.50.88.244": {
+    "2606:4700:440c::ac40:9a32": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2606:4700:4406::6812:21ce": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.50.88.235": {
         "lat": 52.1326,
         "lon": 5.2913,
         "cc": "NL",
         "country": "Netherlands",
         "gdpr": "EU"
     },
-    "20.50.88.245": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
+    "52.109.20.46": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1036:2407::6": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
     },
     "204.79.197.200": {
         "lat": 56.130366,
@@ -3569,194 +3912,103 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "150.171.28.10": {
-        "lat": 56.130366,
-        "lon": -106.346771,
-        "cc": "CA",
-        "country": "Canada",
-        "gdpr": "Adequacy decision"
-    },
-    "150.171.27.10": {
-        "lat": 56.130366,
-        "lon": -106.346771,
-        "cc": "CA",
-        "country": "Canada",
-        "gdpr": "Adequacy decision"
-    },
-    "2620:1ec:33:1::10": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2620:1ec:33::10": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "62.115.252.56": {
+    "62.115.252.25": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.48": {
+    "62.115.252.32": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.57": {
+    "62.115.252.8": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.40": {
+    "62.115.252.27": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.41": {
+    "62.115.252.17": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.50": {
+    "62.115.252.24": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.35": {
+    "62.115.252.33": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.51": {
+    "62.115.252.16": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.42": {
+    "62.115.252.34": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "62.115.252.73": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "2001:2030:21::3e73:fc42": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
-    "80.239.137.139": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
+    "2001:2030:21::3e73:fc3a": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
-    "80.239.137.154": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
+    "2001:2030:21::3e73:fc48": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
-    "80.239.137.153": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
+    "2001:2030:21::3e73:fc49": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
-    "80.239.137.147": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "62.115.252.74": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "80.239.137.146": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "80.239.137.138": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "62.115.252.75": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2::5f65:8ea8": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2::6854:9829": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2::5f65:8ea1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2::6854:982a": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2::5f65:8ea3": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "2001:2030:21::3e73:fc38": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
     "40.126.53.20": {
         "lat": 60.1282,
@@ -3772,77 +4024,28 @@
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "20.190.147.7": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "40.126.53.13": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "20.190.147.0": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "20.190.181.6": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "20.190.177.85": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "40.126.53.7": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "20.190.177.82": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.147.5": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.177.21": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.177.22": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.147.4": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.177.83": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.147.12": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.181.2": {
+    "40.126.53.9": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
@@ -3856,6 +4059,13 @@
         "country": "Sweden",
         "gdpr": "EU"
     },
+    "20.231.128.65": {
+        "lat": -35.6751,
+        "lon": -71.543,
+        "cc": "CL",
+        "country": "Chile",
+        "gdpr": "Need for TIA"
+    },
     "40.126.53.10": {
         "lat": 60.1282,
         "lon": 18.6435,
@@ -3863,32 +4073,46 @@
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "23.102.191.170": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.190.177.20": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "40.126.53.16": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "20.190.147.8": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "20.190.181.0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
-    "20.190.177.149": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
+    "40.126.53.17": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "150.171.109.196": {
+        "lat": -0.0236,
+        "lon": 37.9062,
+        "cc": "KE",
+        "country": "Kenya",
+        "gdpr": "Need for TIA"
+    },
+    "40.104.62.210": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "40.98.16.16": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
         "gdpr": "EU"
     },
     "40.104.62.146": {
@@ -3898,74 +4122,60 @@
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "132.245.230.48": {
+    "40.98.16.66": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "40.101.27.78": {
+    "52.98.228.210": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "40.104.62.178": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "40.101.27.198": {
+    "40.98.16.58": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "40.104.62.242": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
+    "40.99.148.114": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
         "gdpr": "EU"
     },
-    "40.101.27.218": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
+    "52.98.240.34": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
         "gdpr": "EU"
     },
-    "40.101.1.119": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "52.97.230.162": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
     },
-    "2603:1026:900:38::3": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:c11:9::2": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:c11:918::2": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:900::24": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
+    "2603:1026:c0e:80d::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
         "gdpr": "EU"
     },
     "2603:1026:c11:8::2": {
@@ -3975,77 +4185,84 @@
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:900:36::d": {
+    "2603:1026:c0e:86a::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1026:900:29::36": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:c11:919::2": {
+    "2603:1026:c11:b::2": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:c11:915::2": {
+    "2603:1026:900:29::2a": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:900:2::35": {
+    "2603:1026:900:29::f": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:900:38::14": {
+    "2603:1026:900:29::2e": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:900:2::b": {
+    "2603:1026:c11:c54::2": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2603:1026:900:36::5": {
+    "2603:1026:900:29::10": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "88.221.98.113": {
+    "184.51.227.105": {
+        "lat": 61.9241,
+        "lon": 25.7482,
+        "cc": "FI",
+        "country": "Finland",
+        "gdpr": "EU"
+    },
+    "2a02:26f0:e80:891::26ad": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e80:498::26ad": {
+    "2a02:26f0:e80:881::26ad": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e80:48e::26ad": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "52.111.243.45": {
+    "52.111.243.44": {
         "lat": 52.1326,
         "lon": 5.2913,
         "cc": "NL",
@@ -4059,26 +4276,47 @@
         "country": "Netherlands",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:48f::26ad": {
+    "2a02:26f0:e80:19b::26ad": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:490::26ad": {
+    "2a02:26f0:e80:186::26ad": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "23.210.252.238": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "162.159.142.9": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "172.66.2.5": {
+        "lat": 56.130366,
+        "lon": -106.346771,
+        "cc": "CA",
+        "country": "Canada",
+        "gdpr": "Adequacy decision"
+    },
+    "2606:4700:7::1fd": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2a06:98c1:58::1fd": {
+        "lat": 55.378051,
+        "lon": -3.435973,
+        "cc": "GB",
+        "country": "United Kingdom",
+        "gdpr": "Adequacy decision"
     },
     "104.103.65.50": {
         "lat": 61.9241,
@@ -4087,40 +4325,33 @@
         "country": "Finland",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:185::21cc": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "2001:2030:21:1af::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
-    "2a02:26f0:e2:198::21cc": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "2001:2030:21:1b4::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
-    "2a02:26f0:e2:1a3::21cc": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "2001:2030:21:1a6::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
-    "2a02:26f0:e2:1b5::21cc": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:19e::21cc": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
+    "2001:2030:21:18e::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
     },
     "151.101.246.133": {
         "lat": 52.1326,
@@ -4128,20 +4359,6 @@
         "cc": "NL",
         "country": "Netherlands",
         "gdpr": "EU"
-    },
-    "104.18.20.226": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "104.18.21.226": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
     },
     "2a04:4e42:3a::645": {
         "lat": 52.1326,
@@ -4157,19 +4374,19 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2606:4700::6812:14e2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
+    "23.11.40.157": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
     },
-    "2606:4700::6812:15e2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
+    "2600:14e1:20:6d::": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
     },
     "204.79.197.203": {
         "lat": 56.130366,
@@ -4185,33 +4402,96 @@
         "country": "France",
         "gdpr": "EU"
     },
-    "2.23.90.89": {
+    "95.100.178.81": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:4a3::356e": {
+    "2a02:26f0:e80:593::356e": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "2a02:26f0:e2:49c::356e": {
+    "2a02:26f0:e80:58f::356e": {
         "lat": 60.1282,
         "lon": 18.6435,
         "cc": "SE",
         "country": "Sweden",
         "gdpr": "EU"
     },
-    "150.171.74.13": {
-        "lat": 56.130366,
-        "lon": -106.346771,
-        "cc": "CA",
-        "country": "Canada",
-        "gdpr": "Adequacy decision"
+    "2a02:26f0:e80:583::356e": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "150.171.76.13": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "150.171.75.13": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1061:10:3::13": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1061:10:2::13": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "23.103.242.138": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "23.103.242.133": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "2603:1061:1600:2d0a::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1061:1600:2d04::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1061:1600:2d09::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
     },
     "150.171.73.13": {
         "lat": 56.130366,
@@ -4220,6 +4500,20 @@
         "country": "Canada",
         "gdpr": "Adequacy decision"
     },
+    "150.171.74.13": {
+        "lat": 56.130366,
+        "lon": -106.346771,
+        "cc": "CA",
+        "country": "Canada",
+        "gdpr": "Adequacy decision"
+    },
+    "2603:1061:10::13": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
     "2603:1061:10:1::13": {
         "lat": 39.828175,
         "lon": -98.5795,
@@ -4227,7 +4521,931 @@
         "country": "United States",
         "gdpr": "Data protection framework"
     },
-    "2603:1061:10::13": {
+    "48.192.1.64": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1063:2001:2d0d::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:2001:2d02::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:2001:2d0c::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "20.231.128.66": {
+        "lat": -35.6751,
+        "lon": -71.543,
+        "cc": "CL",
+        "country": "Chile",
+        "gdpr": "Need for TIA"
+    },
+    "40.126.53.18": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "20.231.128.67": {
+        "lat": -35.6751,
+        "lon": -71.543,
+        "cc": "CL",
+        "country": "Chile",
+        "gdpr": "Need for TIA"
+    },
+    "20.190.181.5": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::11": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::25": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::6": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::4": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::f": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::20": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::1e": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::c": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::13": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::12": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::24": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::21": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1027:1:28::10": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.131.157.186": {
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "cc": "CN",
+        "country": "China",
+        "gdpr": "Need for TIA"
+    },
+    "23.103.242.134": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "23.103.242.136": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "23.103.242.129": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "2603:1061:1600:2d06::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1061:1600:2d0d::365:c0": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.123.245.108": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.243.50": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "52.123.243.49": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1063:3:107::365:7ea3": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1063:3:102::365:7ea3": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1063:7:106::365:7ea3": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:3:10a::365:7ea3": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "4.207.44.71": {
+        "lat": 53.4129,
+        "lon": -8.2439,
+        "cc": "IE",
+        "country": "Ireland",
+        "gdpr": "EU"
+    },
+    "4.207.44.67": {
+        "lat": 53.4129,
+        "lon": -8.2439,
+        "cc": "IE",
+        "country": "Ireland",
+        "gdpr": "EU"
+    },
+    "150.171.109.34": {
+        "lat": -0.0236,
+        "lon": 37.9062,
+        "cc": "KE",
+        "country": "Kenya",
+        "gdpr": "Need for TIA"
+    },
+    "2603:1061:14:c3::1": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.190.181.2": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.108.9.12": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "52.108.8.12": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1063:2000:1::12": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1063:2000::12": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.99.215.82": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "40.99.202.18": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "40.99.215.34": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1026:c11:917::2": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0f:1014::2": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1026:c11:c55::2": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.123.245.107": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.123.245.109": {
+        "lat": -14.235004,
+        "lon": -51.92528,
+        "cc": "BR",
+        "country": "Brazil",
+        "gdpr": "Adequacy decision"
+    },
+    "52.109.136.6": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1036:2406::37": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.99.202.2": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "52.98.151.66": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0f:1012::2": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1026:c0f:1015::2": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1026:c11:918::2": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.111.231.39": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "2603:1026:2400:1::28": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "cc": "FR",
+        "country": "France",
+        "gdpr": "EU"
+    },
+    "52.111.236.51": {
+        "lat": 53.4129,
+        "lon": -8.2439,
+        "cc": "IE",
+        "country": "Ireland",
+        "gdpr": "EU"
+    },
+    "2603:1030:803:11::137": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "104.69.222.17": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2.19.185.41": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "4.250.19.206": {
+        "lat": 55.378051,
+        "lon": -3.435973,
+        "cc": "GB",
+        "country": "United Kingdom",
+        "gdpr": "Adequacy decision"
+    },
+    "52.111.229.4": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.76.204.178": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "2603:1020:203:20::14": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "20.35.194.194": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.195.130": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:5e9::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:5ea::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "150.171.109.195": {
+        "lat": -0.0236,
+        "lon": 37.9062,
+        "cc": "KE",
+        "country": "Kenya",
+        "gdpr": "Need for TIA"
+    },
+    "20.190.181.4": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "20.190.190.129": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.126.62.132": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1036:3000:f8::3": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1036:3000:f8::4": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1036:3000:f0::1": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2603:1036:3000:f8::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "52.110.18.130": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "52.110.18.133": {
+        "lat": 23.424076,
+        "lon": 53.847818,
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "gdpr": "Need for TIA"
+    },
+    "2603:1063:2001:2d04::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2603:1063:2001:2d00::365:ff1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "20.158.152.132": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.140.56.70": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:3403::5e9": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "52.245.136.44": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.247.98": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "40.66.22.34": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.244.162": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.35.246.226": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:161::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:14e::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:1bd::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:2200:1cc::2": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "62.11.51.76": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.140.56.68": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "2001:489a:3403::5e8": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "20.140.137.180": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "168.62.216.242": {
+        "lat": 39.828175,
+        "lon": -98.5795,
+        "cc": "US",
+        "country": "United States",
+        "gdpr": "Data protection framework"
+    },
+    "62.115.252.162": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "62.115.252.170": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "150.171.109.164": {
+        "lat": -0.0236,
+        "lon": 37.9062,
+        "cc": "KE",
+        "country": "Kenya",
+        "gdpr": "Need for TIA"
+    },
+    "20.50.88.241": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "62.115.252.50": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "62.115.252.73": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "62.115.252.65": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "62.115.252.72": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "62.115.252.75": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "80.239.137.136": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "80.239.137.138": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "62.115.252.51": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "62.115.252.58": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "2001:2030:21::3e73:fc4b": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
+    },
+    "2001:2030:21::3e73:fc41": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
+    },
+    "40.126.53.8": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "20.190.181.1": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "40.99.202.34": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "40.104.62.130": {
+        "lat": 60.1282,
+        "lon": 18.6435,
+        "cc": "SE",
+        "country": "Sweden",
+        "gdpr": "EU"
+    },
+    "52.97.230.130": {
+        "lat": 60.472,
+        "lon": 8.4689,
+        "cc": "NO",
+        "country": "Norway",
+        "gdpr": "ETA"
+    },
+    "2603:1026:c0e:86d::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0e:80c::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0e:86b::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "2603:1026:c0e:80e::2": {
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "cc": "DE",
+        "country": "Germany",
+        "gdpr": "EU"
+    },
+    "52.111.243.45": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "2603:1026:2405:1::26": {
+        "lat": 52.1326,
+        "lon": 5.2913,
+        "cc": "NL",
+        "country": "Netherlands",
+        "gdpr": "EU"
+    },
+    "2001:2030:21:1a2::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
+    },
+    "2001:2030:21:188::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
+    },
+    "2001:2030:21:187::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
+    },
+    "2001:2030:21:18d::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
+    },
+    "2001:2030:21:18a::21cc": {
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "cc": "IN",
+        "country": "India",
+        "gdpr": "Need for TIA"
+    },
+    "13.107.9.156": {
         "lat": 39.828175,
         "lon": -98.5795,
         "cc": "US",
@@ -4247,642 +5465,5 @@
         "cc": "US",
         "country": "United States",
         "gdpr": "Data protection framework"
-    },
-    "193.229.113.75": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "48.192.1.64": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "193.229.109.56": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "193.229.109.59": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "193.229.109.57": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "193.229.109.51": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "193.229.109.50": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2001:998:12:e::c1e5:6d31": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2001:998:12:e::c1e5:6d39": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "2001:998:12:e::c1e5:6d50": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "52.110.18.139": {
-        "lat": 23.424076,
-        "lon": 53.847818,
-        "cc": "AE",
-        "country": "United Arab Emirates",
-        "gdpr": "Need for TIA"
-    },
-    "20.190.147.10": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.177.148": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.177.19": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "40.126.53.21": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.16": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.231.128.67": {
-        "lat": -35.6751,
-        "lon": -71.543,
-        "cc": "CL",
-        "country": "Chile",
-        "gdpr": "Need for TIA"
-    },
-    "2603:1027:1:108::10": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "2603:1026:3000:110::3": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:3a1::38f3": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:387::38f3": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.35.194.194": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "40.66.29.130": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.190.177.84": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.147.2": {
-        "lat": 46.2276,
-        "lon": 2.2137,
-        "cc": "FR",
-        "country": "France",
-        "gdpr": "EU"
-    },
-    "20.190.190.131": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.190.190.193": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2a02:26f0:41:388::2c1a": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:385::2c1a": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1063:2001:2d07::365:ff1": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:32:6::17d6:6050": {
-        "lat": 60.472,
-        "lon": 8.4689,
-        "cc": "NO",
-        "country": "Norway",
-        "gdpr": "Need for TIA"
-    },
-    "2a02:26f0:32:6::17d6:604c": {
-        "lat": 60.472,
-        "lon": 8.4689,
-        "cc": "NO",
-        "country": "Norway",
-        "gdpr": "Need for TIA"
-    },
-    "52.109.20.48": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2a02:26f0:41:381::d42": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:385::d42": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "52.245.128.78": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "40.66.17.130": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:1bc::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:1cc::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.35.247.34": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.35.245.2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:2200:1b6::2": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "52.238.161.7": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.140.147.203": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:3403::5e3": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "2001:489a:3604::7c8": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.140.134.64": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.135.6.15": {
-        "lat": 39.828175,
-        "lon": -98.5795,
-        "cc": "US",
-        "country": "United States",
-        "gdpr": "Data protection framework"
-    },
-    "20.101.246.164": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:380::2957": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:382::2957": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:3a1::34ef": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:386::34ef": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.50.88.238": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
-    },
-    "80.239.137.137": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "80.239.137.161": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "80.239.137.145": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "80.239.137.136": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "80.239.137.168": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "80.239.137.162": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "80.239.137.163": {
-        "lat": 51.1657,
-        "lon": 10.4515,
-        "cc": "DE",
-        "country": "Germany",
-        "gdpr": "EU"
-    },
-    "2001:2030:22::3e73:fda1": {
-        "lat": 20.5937,
-        "lon": 78.9629,
-        "cc": "IN",
-        "country": "India",
-        "gdpr": "Need for TIA"
-    },
-    "2001:2030:22::3e73:fd51": {
-        "lat": 20.5937,
-        "lon": 78.9629,
-        "cc": "IN",
-        "country": "India",
-        "gdpr": "Need for TIA"
-    },
-    "2001:2030:22::3e73:fda9": {
-        "lat": 20.5937,
-        "lon": 78.9629,
-        "cc": "IN",
-        "country": "India",
-        "gdpr": "Need for TIA"
-    },
-    "2001:2030:22::3e73:fd53": {
-        "lat": 20.5937,
-        "lon": 78.9629,
-        "cc": "IN",
-        "country": "India",
-        "gdpr": "Need for TIA"
-    },
-    "2001:2030:22::3e73:fd99": {
-        "lat": 20.5937,
-        "lon": 78.9629,
-        "cc": "IN",
-        "country": "India",
-        "gdpr": "Need for TIA"
-    },
-    "40.126.53.7": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.190.181.0": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.126.53.9": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "20.231.128.66": {
-        "lat": -35.6751,
-        "lon": -71.543,
-        "cc": "CL",
-        "country": "Chile",
-        "gdpr": "Need for TIA"
-    },
-    "40.101.1.92": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.101.1.39": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.104.62.194": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "132.245.231.8": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "40.104.62.210": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:900:2::33": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:900:3::c": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:900:3::2a": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:900::73": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:900::1f": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2603:1026:2405:1::26": {
-        "lat": 52.1326,
-        "lon": 5.2913,
-        "cc": "NL",
-        "country": "Netherlands",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:388::26ad": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:41:384::26ad": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:1a6::21cc": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:182::21cc": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:5be::356e": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:592::356e": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:595::356e": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "2a02:26f0:e2:598::356e": {
-        "lat": 60.1282,
-        "lon": 18.6435,
-        "cc": "SE",
-        "country": "Sweden",
-        "gdpr": "EU"
-    },
-    "193.229.113.82": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
-    },
-    "193.229.113.88": {
-        "lat": 61.9241,
-        "lon": 25.7482,
-        "cc": "FI",
-        "country": "Finland",
-        "gdpr": "EU"
     }
 }

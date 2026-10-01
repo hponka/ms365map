@@ -11,7 +11,8 @@
       "20.35.192.0/20",
       "40.66.24.0/21",
       "2001:489a:2200:500::/56",
-      "2001:489a:2200:700::/56"
+      "2001:489a:2200:700::/56",
+      "2001:489a:2200:c000::/50"
     ],
     "tcpPorts": "80,443",
     "expressRoute": true,
@@ -78,12 +79,12 @@
     "serviceAreaDisplayName": "Microsoft Teams",
     "urls": [
       "*.dod.teams.microsoft.us",
-      "*.online.dod.skypeforbusiness.us",
       "dod.teams.microsoft.us"
     ],
     "ips": [
       "13.72.128.0/20",
       "52.127.64.0/21",
+      "57.16.128.0/17",
       "104.212.32.0/22",
       "195.134.240.0/22",
       "2001:489a:2250::/44"
@@ -135,6 +136,7 @@
       "*.dod.online.office365.us"
     ],
     "ips": [
+      "20.35.4.0/22",
       "52.127.80.0/23",
       "2001:489a:2208:8000::/49"
     ],
@@ -254,12 +256,10 @@
       "crl.microsoft.com",
       "go.microsoft.com",
       "insertmedia.bing.office.net",
-      "ocsa.officeapps.live.com",
       "ocsredir.officeapps.live.com",
       "ocws.officeapps.live.com",
       "office15client.microsoft.com",
       "officecdn.microsoft.com",
-      "officecdn.microsoft.com.edgesuite.net",
       "officepreviewredir.microsoft.com",
       "officeredir.microsoft.com",
       "ols.officeapps.live.com",

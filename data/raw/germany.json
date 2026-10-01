@@ -1,0 +1,69 @@
+[
+  {
+    "id": 36,
+    "serviceArea": "Common",
+    "serviceAreaDisplayName": "Common",
+    "urls": [
+      "*.sovcloud.de"
+    ],
+    "tcpPorts": "443",
+    "udpPorts": "443",
+    "expressRoute": false,
+    "category": "Default",
+    "required": true,
+    "notes": "Client to Service Microsoft SAAS product experiences, including Microsoft 365 apps, products and their APIs "
+  },
+  {
+    "id": 37,
+    "serviceArea": "SharePoint",
+    "serviceAreaDisplayName": "SharePoint Online and OneDrive for Business",
+    "urls": [
+      "*.sovcloud-sharepoint.de"
+    ],
+    "tcpPorts": "80,443",
+    "udpPorts": "443",
+    "expressRoute": false,
+    "category": "Default",
+    "required": true,
+    "notes": "SharePoint Online and dependent services"
+  },
+  {
+    "id": 38,
+    "serviceArea": "Common",
+    "serviceAreaDisplayName": "Common",
+    "urls": [
+      "*.sovcloud-identity.de"
+    ],
+    "tcpPorts": "80,443",
+    "expressRoute": false,
+    "category": "Default",
+    "required": true,
+    "notes": "Identity and authentication endpoints"
+  },
+  {
+    "id": 39,
+    "serviceArea": "Common",
+    "serviceAreaDisplayName": "Common",
+    "urls": [
+      "*.sovcloud-usercontent.de"
+    ],
+    "tcpPorts": "443",
+    "expressRoute": false,
+    "category": "Default",
+    "required": true,
+    "notes": "Content used in Microsoft SaaS experiences that require domain isolation from applications"
+  },
+  {
+    "id": 40,
+    "serviceArea": "Common",
+    "serviceAreaDisplayName": "Common",
+    "urls": [
+      "*.sovcloud-static.de"
+    ],
+    "tcpPorts": "443",
+    "expressRoute": false,
+    "category": "Default",
+    "required": true,
+    "notes": "Microsoft static content (excluding customer generated content) hosted on CDNs "
+  }
+]
