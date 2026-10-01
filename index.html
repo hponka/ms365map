@@ -267,8 +267,11 @@ let sortAsc = true;
 // ===============================
 const fileToCloudName = {};
 
-fetch("api.php")
-// fetch("data/cache/result_cache.json")
+const currenturl = ["localhost", "127.0.0.1"].includes(window.location.hostname)
+    ? "api.php"
+    : "data/cache/result_cache.json";
+
+fetch(currenturl)
 .then(r=>r.json())
 .then(data=>{
     let colorIndex = 0;
